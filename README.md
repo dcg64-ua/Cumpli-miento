@@ -1,7 +1,3 @@
-
-Descripción del Proyecto
-Título del Proyecto: Evaluación Automática de Políticas de Privacidad
-
 Resumen:
 Este proyecto tiene como objetivo desarrollar una herramienta automática para evaluar si las políticas de privacidad de diferentes empresas cumplen 
 con ciertos derechos establecidos por el Reglamento General de Protección de Datos (GDPR). Utilizando técnicas de procesamiento de lenguaje natural (NLP) 
